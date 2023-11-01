@@ -1,0 +1,5 @@
+[autorun]
+open=diva.exe
+action=start diva
+label = my portable pc
+icon = diva.exe
